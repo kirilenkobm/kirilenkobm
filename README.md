@@ -21,4 +21,11 @@ I'm also a developer of the Papper iOS app. Papper is currently in open beta, an
 I'm proficient in Python, C, and Swift, and I'm currently actively learning Kotlin. My expertise extends to data science and the development of data pipelines.
 
 ## 📫 Contact Me
-If you're interested in my work or would like to collaborate, feel free to reach out to me. You can contact me on Telegram at `krlnk` or send an email to `kirilenkobm [at] gmail.com`.
+If you're interested in my work or would like to collaborate, feel free to reach out to me.
+
+You can contact me on:
+
+* Telegram: `krlnk`
+* Email: `kirilenkobm [ at ] gmail.com`
+* LinkedIn: `https://www.linkedin.com/in/bkirilenko`
+  
