@@ -1,4 +1,4 @@
-# Hi, I'm Bogdan Kirilenko 👋
+# Hi, I'm Bogdan 👋
 
 I'm an independent developer with a strong foundation in bioinformatics, having experience in both industry and academia. My work has encompassed a broad range of areas, including comparative genomics and the development of data pipelines. In addition to my bioinformatics work, I've recently ventured into iOS development. I also have a passion for exploring the intersection of coding and art, constantly seeking innovative ways to blend these two fields.
 
