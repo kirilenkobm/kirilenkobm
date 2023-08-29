@@ -10,7 +10,7 @@ While my contributions are not limited to these, I'd like to highlight two proje
 I'm the creator of [TOGA](https://github.com/hillerlab/TOGA), a bioinformatics tool that integrates gene annotation with orthology inference at scale. You can read more about it in this [Science publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10193443/).
 
 ### 📱 Papper
-I'm also a developer of the Papper iOS app. Papper is currently in open beta, and you can download it [here](https://testflight.apple.com/join/1EsWRgz7). For more information, visit the [Papper website](https://papper.co).
+I'm also a developer of the Papper iOS app. Papper is currently in open beta. For more information, visit the [Papper website](https://papper.co).
 
 ## 💻 Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
