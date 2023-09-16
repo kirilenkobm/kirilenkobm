@@ -10,6 +10,7 @@ I'm an indie developer with a strong professional background in bioinformatics. 
 - **Role**: Creator
 - **Description**: A bioinformatics tool for large-scale gene annotation and orthology inference.
 - **Publication**: [Science](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10193443/)
+- **Repo**: [TOGA](https://github.com/hillerlab/TOGA)
 - **Related Work**: [Genome Alignment Pipeline](https://github.com/hillerlab/make_lastz_chains)
 
 ## 🚀 Indie Projects
