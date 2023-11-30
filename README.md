@@ -16,10 +16,11 @@ For a detailed list of my scientific publications, check out my [Google Scholar 
 
 ### 📱 Papper
 - **Role**: Software developer and technical co-founder
-- **Status**: Open Beta (AppStore release soon)
+- **Status**: Released
 - **Description**: An iOS app for tracking task lists synced with paper.
 - **Language**: Swift (closed source)
 - **Website**: [Papper](https://papper.co)
+- **AppStore**: [Link](https://apps.apple.com/de/app/papper-scan-handwritten-todos/id1589253907?l=en-GB)
 
 ### 🎨 Gleitzsch
 - **Language**: Kotlin (Old version in Python)
