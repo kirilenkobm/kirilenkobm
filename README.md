@@ -8,7 +8,7 @@ Also make art, mostly on paper, rarely in code.
 
 ## Contact Me
 - **Telegram**: `krlnk`
-- **Email**: `kirilenkobm [ at ] gmail.com`
+- **Email**: `bogdan.m.kirilenko [ at ] gmail.com`
 - **LinkedIn**: [bkirilenko](https://www.linkedin.com/in/bkirilenko)
 - **Google Scholar Profile** [Bogdan Kirilenko](https://scholar.google.com/citations?user=anhUs4MAAAAJ&hl=en)
 - **My art** [Adobe portfolio](https://kirilenko.myportfolio.com/)
